@@ -6,3 +6,8 @@ h1 {
 li {
     color: red;
 }
+
+button {
+    color: yellow;
+    background-color: grey;
+}
